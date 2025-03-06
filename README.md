@@ -10,5 +10,5 @@
 - 주문서 자동 생성 기능을 통해 기기 선택 후 주문서 저장
 
 ## 📄 프로젝트 문서 (PDF)
-- [프로젝트 발표 자료](https://raw.githubusercontent.com/jaetory/oop-recommendation/main/객체지향%20팀프로젝트.pdf)
+- [프로젝트 발표 자료]([https://raw.githubusercontent.com/jaetory/oop-recommendation/main/객체지향%20팀프로젝트.pdf](https://github.com/jaetory/oop-recommendation/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf))
 
